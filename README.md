@@ -27,10 +27,12 @@
 ### ❤️ About Me
 
 - 🔭 Developer at **ScaleUp Ads Agency**
+- 🛠️ Collaborating with a **startup company** on exciting new ideas
 - 🧠 Currently learning **Data Structures & Algorithms**
-- 📚 Learning ongoing: **SQL, Prisma, MongoDB, GraphQL, AWS, Docker, Jest**
+- 📚 Learning ongoing: **SQL, Prisma, MongoDB, GraphQL, AWS, Docker, Jest** — pushing boundaries with every line of code
 - 🎯 Focused on **Full Stack Development** with MERN, Django, and React Native
 - 🖥️ Also experienced with **WordPress** for rapid delivery
+- 💼 Handling a **mid-level personal client project**
 - 🔧 Exploring DevOps tools & deployment workflows
 - 🌱 I love building beautiful UIs and solving real-world problems
 
