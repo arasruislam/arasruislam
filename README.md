@@ -67,6 +67,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=mui)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer)
+![TanStack Query](https://img.shields.io/badge/TanStack_/_React_Query-black?style=for-the-badge&logo=reactquery)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-black?style=for-the-badge&logo=reacthookform)
+![Formik](https://img.shields.io/badge/Formik-black?style=for-the-badge&logo=formik)
 
 #### 🔙 Backend
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
@@ -89,14 +94,12 @@
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest)
+![Vitest](https://img.shields.io/badge/Vitest-black?style=for-the-badge&logo=vitest)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-black?style=for-the-badge&logo=adobeindesign)
-![TanStack Query](https://img.shields.io/badge/TanStack_/_React_Query-black?style=for-the-badge&logo=reactquery)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-black?style=for-the-badge&logo=reacthookform)
-![Formik](https://img.shields.io/badge/Formik-black?style=for-the-badge&logo=formik)
 
 ---
 
@@ -120,7 +123,6 @@
 </p>
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight)
   <img src="https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight" height="180" />
 </p>
 
