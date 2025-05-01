@@ -97,7 +97,7 @@
 
 ### 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=arasruislam&show_icons=true&theme=tokyonight" height="180" />
