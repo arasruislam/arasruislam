@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/DPZgw72V/github.jpg" alt="cover" width="100%" height="100%" />
+  <img src="https://i.ibb.co.com/DPZgw72V/github.jpg" alt="cover" width="100%" />
 </p>
 
 ---
 
-### ☕ Connect with Me!
+### ☕ Connect with Me
 
 <p align="center">
   <a href="https://www.facebook.com/arasruislam/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -26,12 +26,13 @@
 
 ### ❤️ About Me
 
-- 🔭 I'm currently working as a **Developer at ScaleUp Ads Agency**
-- 🧠 Always learning something new — currently diving into **SQL, Prisma, GraphQL, AWS, Docker**
-- 🎯 My goal is to become a **Full Stack Developer & Confident Problem Solver**
-- 🌱 Building expertise in **React Native, DRF, Jest, and Deployment**
-- 🌐 Rebuilding my portfolio — Stay tuned!
-- 🛠️ Bonus: I also work with **WordPress** for fast client delivery
+- 🔭 Developer at **ScaleUp Ads Agency**
+- 🧠 Currently learning **Data Structures & Algorithms**
+- 📚 Learning ongoing: **SQL, Prisma, MongoDB, GraphQL, AWS, Docker, Jest**
+- 🎯 Focused on **Full Stack Development** with MERN, Django, and React Native
+- 🖥️ Also experienced with **WordPress** for rapid delivery
+- 🔧 Exploring DevOps tools & deployment workflows
+- 🌱 I love building beautiful UIs and solving real-world problems
 
 ---
 
@@ -48,7 +49,7 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
+#### 💻 Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -65,11 +66,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=mui)
 
-#### 🔧 Backend & Tools
+#### 🛠 Backend & Tools
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-black?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
@@ -83,21 +84,14 @@
 
 ---
 
-### 📺 Latest YouTube Project
-
-📌 [Get Your Code - YouTube Channel](https://www.youtube.com/@get_your_code_official)  
-🎥 Tutorials on problem solving using java, university params, and more coming soon...
-
----
-
 ### 🎯 2025 Goals
 
-- ✅ Master Full Stack Development (Next.js + MERN)
-- ✅ Build cross-platform apps with React Native
-- ✅ Solve 300+ coding problems
+- ✅ Master Full Stack Development (Django + MERN)
+- ✅ Master DSA with consistent practice
+- ✅ Build real-world cross-platform apps using React Native
+- ✅ Learn and deploy with AWS, Docker, Prisma
+- ✅ Build a scalable portfolio website with DevOps integration
 - ✅ Contribute to Open Source
-- ✅ Launch a Scalable Portfolio
-- ✅ Learn DevOps Tools (Docker, AWS, CI/CD)
 
 ---
 
@@ -106,6 +100,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arasruislam&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arasruislam&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasruislam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
