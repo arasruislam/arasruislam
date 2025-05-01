@@ -68,21 +68,35 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=mui)
 
-#### 🛠 Backend & Tools
+#### 🔙 Backend
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![NextAuth](https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=next.js)
+
+---
+
+#### 🧰 Tools & Dev Utilities
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-black?style=for-the-badge&logo=adobeindesign)
+![TanStack Query](https://img.shields.io/badge/TanStack_/_React_Query-black?style=for-the-badge&logo=reactquery)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-black?style=for-the-badge&logo=reacthookform)
+![Formik](https://img.shields.io/badge/Formik-black?style=for-the-badge&logo=formik)
 
 ---
 
