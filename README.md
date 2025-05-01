@@ -102,7 +102,7 @@
 
 ### 🎯 2025 Goals
 
-- ✅ Master Full Stack Development (Django + MERN)
+- ✅ Master Full Stack Development (Next.js + MERN & Django)
 - ✅ Master DSA with consistent practice
 - ✅ Build real-world cross-platform apps using React Native
 - ✅ Learn and deploy with AWS, Docker, Prisma
