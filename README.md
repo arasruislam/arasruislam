@@ -64,6 +64,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=mui)
@@ -95,7 +96,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest)
 ![Vitest](https://img.shields.io/badge/Vitest-black?style=for-the-badge&logo=vitest)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -126,6 +126,7 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=arasruislam&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180" />
   <img src="https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight" height="180" />
 </p>
 
