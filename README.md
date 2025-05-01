@@ -1,22 +1,113 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ashraful Islam</h1>
-<h3 align="center">I'm a programming learner</h3>
+<h1 align="center">Hi there, I'm Muhammad Ashraful Islam 👋</h1>
 
-- 🔭 I’m currently working on **WordPress Theme Development**
-
-- 🌱 I’m currently learning **WordPress, JS, PHP, Bootstrap**
-
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 📫 How to reach me **arasru01@gmail.com**
-
-- ⚡ Fun fact **I Think I'm Serious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asru_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asru_islam" height="30" width="40" /></a>
-<a href="https://fb.com/arasru.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arasru.islam" height="30" width="40" /></a>
-<a href="https://instagram.com/asru_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asru_islam" height="30" width="40" /></a>
+<p align="center">
+  Full Stack Developer in Progress 🚀 | Passionate Problem Solver 💡 | Developer @ ScaleUp Ads Agency<br/>
+  🧠 Lifelong Learning Enthusiast | Building Skills, One Line of Code at a Time
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://i.postimg.cc/ZYv98kzB/4.jpg" alt="cover" width="100%" />
+</p>
+
+---
+
+### ☕ Connect with Me!
+
+<p align="center">
+  <a href="https://www.facebook.com/arasruislam/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arasruislam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/arasruislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/arasruislam/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/arasruislam"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@get_your_code_official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+### ❤️ About Me
+
+- 🔭 I'm currently working as a **Developer at ScaleUp Ads Agency**
+- 🧠 Always learning something new — currently diving into **SQL, Prisma, GraphQL, AWS, Docker**
+- 🎯 My goal is to become a **Full Stack Developer & Confident Problem Solver**
+- 🌱 Building expertise in **React Native, DRF, Jest, and Deployment**
+- 🌐 Rebuilding my portfolio — Stay tuned!
+- 🛠️ Bonus: I also work with **WordPress** for fast client delivery
+
+---
+
+### 🧠 Problem Solving Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/arasruislam/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/arasruislam/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/arasruislam/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/arasruislam/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Material-UI](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=mui)
+
+#### 🔧 Backend & Tools
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-black?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+### 📺 Latest YouTube Project
+
+📌 [Get Your Code - YouTube Channel](https://www.youtube.com/@get_your_code_official)  
+🎥 Tutorials on Web Development, Django, React, and more coming soon...
+
+---
+
+### 🎯 2025 Goals
+
+- ✅ Master Full Stack Development (Django + MERN)
+- ✅ Build cross-platform apps with React Native
+- ✅ Solve 300+ coding problems
+- ✅ Contribute to Open Source
+- ✅ Launch a Scalable Portfolio
+- ✅ Learn DevOps Tools (Docker, AWS, CI/CD)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arasruislam&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arasruislam&theme=tokyonight" height="180" />
+</p>
+
+---
+
+<p align="center">🚀 Keep Learning. Keep Building. Keep Growing.</p>
