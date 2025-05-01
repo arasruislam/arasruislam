@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/DPZgw72V/github.jpg" alt="cover" width="100%" />
+  <img src="https://i.ibb.co/DPZgw72/github.jpg" alt="cover" width="100%" />
 </p>
 
 ---
