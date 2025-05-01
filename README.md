@@ -126,8 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arasruislam&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arasruislam&theme=tokyonight" height="180" />
 </p>
 
 ---
