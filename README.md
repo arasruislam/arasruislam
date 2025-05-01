@@ -91,6 +91,8 @@
 ---
 
 #### 🧰 Tools & Dev Utilities
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
