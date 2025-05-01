@@ -121,11 +121,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arasruislam&show_icons=true&theme=tokyonight" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasruislam&layout=compact&theme=tokyonight" height="180" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight" height="180" />
-</p>
+
 
 ---
 
