@@ -86,13 +86,13 @@
 ### 📺 Latest YouTube Project
 
 📌 [Get Your Code - YouTube Channel](https://www.youtube.com/@get_your_code_official)  
-🎥 Tutorials on Web Development, Django, React, and more coming soon...
+🎥 Tutorials on problem solving using java, university params, and more coming soon...
 
 ---
 
 ### 🎯 2025 Goals
 
-- ✅ Master Full Stack Development (Django + MERN)
+- ✅ Master Full Stack Development (Next.js + MERN)
 - ✅ Build cross-platform apps with React Native
 - ✅ Solve 300+ coding problems
 - ✅ Contribute to Open Source
