@@ -120,6 +120,7 @@
 </p>
 
 <p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight)
   <img src="https://streak-stats.demolab.com/?user=arasruislam&theme=tokyonight" height="180" />
 </p>
 
