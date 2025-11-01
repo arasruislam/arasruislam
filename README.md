@@ -106,15 +106,16 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2025-2026 Goals
 
-- ✅ Master Full Stack Development (Next.js + MERN & Django)
-- ✅ Master DSA with consistent practice
-- ✅ Build real-world cross-platform apps using React Native
+- ✅ Be a Full Stack Development (Full Stack Developer)
+- ✅ Mastering DSA with consistent practice & solve 500+ DSA problems
+- ✅ Build real-world cross-platform apps using React Native / Flutter
 - ✅ Learn and deploy with AWS, Docker, Prisma
 - ✅ Build a scalable portfolio website with DevOps integration
 - ✅ Contribute to Open Source
-
+- ✅ Learn system design architecture
+  
 ---
 
 ### 📊 GitHub Stats
